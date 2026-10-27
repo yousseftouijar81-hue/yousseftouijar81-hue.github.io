@@ -1,0 +1,8 @@
+.env
+.env.*
+data/
+*.sqlite
+*.session
+client_secret*.json
+google-client*.json
+gmail-token*.json
